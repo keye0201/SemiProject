@@ -10,16 +10,35 @@
 </br>
 
 ## 2. 사용 기술
+
 #### `언어`
-JAVA, HTML/CSS, JavaScript
+<div>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
 #### `서버`
-Apache Tomcat
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+
 #### `프레임워크`
-Spring, MyBatis
+<div>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logo=mybatis&logoColor=white">
+</div>
+
 #### `라이브러리`
-Bootstrap, jQuery, JSON, lombok
+<div>
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white">
+  <img src="https://img.shields.io/badge/lombok-F80000?style=for-the-badge&logo=lombok&logoColor=white">
+</div>
+
 #### `DB`
-MySQL
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
 #### `API`
 비짓제주, 공공데이터, KAKAO Login, Map
 
