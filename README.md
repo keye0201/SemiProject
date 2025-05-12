@@ -45,3 +45,7 @@ MySQL
 ## 6. UI 디자인
 ![UI디자인](https://github.com/user-attachments/assets/7583b4cd-7656-4097-be8a-ba78d4eb0e98)
 
+</br>
+
+## 전체 포트폴리오 파일
+[클릭](https://drive.google.com/file/d/1MeWWS_HVvLD2YaQUtoiD5JM72WkFp3u7/view?usp=sharing)
